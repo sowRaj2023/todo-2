@@ -1,0 +1,46 @@
+.bg-container{
+    background-color: beige;
+    height: 200vh;
+}
+
+.input{
+    height: 10vh;
+    border-radius: 20px;
+    border-color: blue;
+    width: 80%;
+    text-align: left;
+    margin: 30px;
+}
+
+
+.check-box{
+    height: 30px;
+    width: 30px;
+    text-align: left;
+}
+
+.label-container{
+    
+    height: 10vh;
+    
+    background-color: aquamarine;
+    width: 50%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 30px;
+    border-style: solid;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-color: pink;
+    
+
+}
+.delete-icon-container{
+    text-align: right;
+    width: 18%;
+}
+
+.label{
+    text-decoration: line-through;
+}
